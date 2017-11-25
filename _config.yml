@@ -12,10 +12,10 @@ baseurl: "https://unclelin.github.io"                             # for example,
 
 # SNS settings
 RSS: false
-weibo_username:     unknow
-zhihu_username:     unknow
+#weibo_username:     unknow
+#zhihu_username:     unknow
 github_username:    unclelin
-twitter_username:   unknow
+#twitter_username:   unknow
 #facebook_username:  unclelin
 # linkedin_username:  firstname-lastname-idxxxx
 
