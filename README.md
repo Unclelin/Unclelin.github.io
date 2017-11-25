@@ -4,7 +4,7 @@
 
 ## thinks
 ---
-1.这个模板是从这里Hux fork 的。感谢这个作者
+1.感谢作者[Hux](https://github.com/huxpro) 模版从他哪fork 的。
 2.感谢 Jekyll、Github Pages 和 Bootstrap!
 
 
