@@ -3,10 +3,10 @@ title: Unclelin Blog
 SEOTitle: 林建茂的博客 | Unclelin Blog
 header-img: img/home-bg.jpg
 email: linjianmao@gmail.com
-description: "||"
-keyword: ""
+description: "关于后端与架构 | A茂, web, Software Engineer, Software Developer, JAVA Developer | the Unclelin blog, unclelin github"
+keyword: "A茂, 个人网站, 博客, Unclelin, Unclelin Blog, 互联网, 大数据, 后端工程师, 大java, JAVA中高级开发工程师, 开发工程师, 架构师"
 url: "https://unclelin.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://unclelin.github.io"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
