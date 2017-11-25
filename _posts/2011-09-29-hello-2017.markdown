@@ -1,0 +1,42 @@
+---
+layout:     post
+title:      "Hello 2017"
+subtitle:   " \"Hello World,Hello github Blog\""
+date:       2017-11-25 20:00:00
+author:     "unclelin"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - GitHub Pages - Jekyll - Markdown
+---
+
+> “Just do it”
+
+
+## 前言
+---
+一直想做一个自己的网站然后今天刚好休息这种写冲动，ok天时地利开干。
+想了一下方案：买一台阿里云＋springboot＋bootstrap （服务器、后台管理、前端成熟模版），打开bootstrap官网发现没有了第一次看到他那种感觉应该是说像初恋的感觉吧哈哈。接着在网上找发现知乎上有一介绍[GitHub Pages](https://pages.github.com/)＋[Jekyll](http://jekyllrb.com/) 写的blog对pc和mobile都支持作者已经开源出来了，文章还是用markedown写的非常方便，一直也断断续续使用者Markdown好就是他了，fork。
+
+
+其优点非常明显：
+
+* **Markdown** 简单清新的页面风格
+* 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
+* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
+* 如果需要自定义域名，也只需要简单改改 DNS 加个 CNAME 就好了 
+* Jekyll 的自定制非常容易，基本就是个模版引擎
+
+
+---
+
+参考文档：[using jekyll with pages](https://help.github.com/articles/using-jekyll-with-pages/) & [Upgrading from 2.x to 3.x](http://jekyllrb.com/docs/upgrading/2-to-3/)
+
+
+## Thanks
+
+感谢Hux开源出来的blog，感谢美工赵岳的改图。
+
+—— Unclelin by 2017.11
+
+
