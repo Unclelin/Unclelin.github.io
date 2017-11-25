@@ -1,6 +1,6 @@
 # Site settings
 title: Unclelin Blog
-SEOTitle: 林建茂的博客 | Unclelin Blog
+SEOTitle: Unclelin Blog | 林建茂的博客
 header-img: img/home-bg.jpg
 email: linjianmao@gmail.com
 description: "关于后端与架构 | A茂, web, Software Engineer, Software Developer, JAVA Developer | the Unclelin blog, unclelin github"
@@ -12,10 +12,10 @@ baseurl: "https://unclelin.github.io"                             # for example,
 
 # SNS settings
 RSS: false
-weibo_username:     unclelin
-zhihu_username:     unclelin
+weibo_username:     unknow
+zhihu_username:     unknow
 github_username:    unclelin
-twitter_username:   unclelin
+twitter_username:   unknow
 #facebook_username:  unclelin
 # linkedin_username:  firstname-lastname-idxxxx
 
