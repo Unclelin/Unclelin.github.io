@@ -35,7 +35,7 @@ tags:
 
 ## Thanks
 
-感谢Hux开源出来的blog，感谢美工赵岳的改图。
+感谢Hux的模版，感谢美工赵岳的改图。
 
 —— Unclelin by 2017.11
 
