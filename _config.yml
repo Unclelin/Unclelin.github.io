@@ -87,16 +87,19 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
         title: "shangminlee",
         href: "http://github.com/shangminlee"
     },{
         title: "Google",
         href: "http://www.google.com"
     },{
+        title: "thinkgem",
+        href: "https://github.com/thinkgem/jeesite"
+    },{
         title: "Android",
         href: "https://developer.android.com"
+    },{
+       title: "zhaoyue123",
+       href: "https://github.com/zhaoyue123"
     }
 ]

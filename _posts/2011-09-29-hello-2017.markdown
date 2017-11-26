@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hello 2017"
-subtitle:   " \"Hello World,Hello github Blog\""
+subtitle:   " \"Hello World,Hello my Blog\""
 date:       2017-11-25 20:00:00
 author:     "unclelin"
 header-img: "img/post-bg-2017.jpg"
@@ -35,7 +35,7 @@ tags:
 
 ## Thanks
 
-感谢Hux的模版，感谢前端zhanyue123修改的图。
+感谢Hux的模版，感谢前端zhaoyue123修改的图。
 
 —— Unclelin by 2017.11
 
