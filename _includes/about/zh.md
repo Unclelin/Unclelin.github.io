@@ -12,3 +12,6 @@
 
 
 ##### Talks
+- [Blizzard](http://w.163.com).WOW魔兽[暴雪嘉年华](http://blizzcon.blizzard.cn/)
+- [Spring.org](https://spring.io/)
+- [We are Developers Learn ,Share & Bu...](https://stackoverflow.com/)
