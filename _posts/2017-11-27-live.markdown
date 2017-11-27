@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "About before 2017"
-subtitle:   "life record"
+subtitle:   "somethings"
 date:       2017-11-26 20:00:00
 author:     "unclelin"
 header-img: "img/post-bg-2017.jpg"
